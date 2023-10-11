@@ -41,3 +41,7 @@ This repository is licensed under the [MIT License](./LICENSE).
 If you have any questions, feedback, or suggestions, please reach out to us in the [Discussions](./discussions) section or by [creating an issue](https://github.com/your-username/your-repository/issues).
 
 Let's embark on this exciting AI discovery journey together! Happy learning!
+
+[![HitCount](http://hits.dwyl.com/natnew/natnew/AI-Discovery-Path.md.svg)](http://hits.dwyl.com/natnew/natnew/AI-Discovery-Paths/edit/main/README.md) 
+
+
