@@ -1,6 +1,9 @@
 # AI-Discovery-Path
 Welcome to the AI Discovery Path repository! This is your portal to the exciting world of artificial intelligence. Whether you're a beginner eager to explore the basics or an AI enthusiast looking to delve deeper, you've come to the right place.
 
+For more information and to track our project's progress, visit our [Project Board](https://github.com/users/natnew/projects/3/views/1).
+
+
 ## About
 
 The AI Discovery Path is designed to provide a structured and immersive learning experience for individuals interested in artificial intelligence. Here's what you can expect:
