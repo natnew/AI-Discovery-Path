@@ -28,6 +28,34 @@ If you're new to the AI Discovery Path, here's how to get started:
 
 4. **Contribute**: If you have AI-related content, projects, or resources to share, feel free to contribute to this repository. Your contributions are valuable to the community.
 
+5. ## Projects
+
+Explore some of my data science and AI projects on GitHub:
+
+1. [Project 1: Awesome-Prompt-Engineering](https://github.com/natnew/Awesome-Prompt-Engineering)
+   - Description: Explore Awesome-Prompt-Engineering for valuable resources on AI prompt engineering, including guides, eBooks, code, and community insights. Master prompt crafting.
+   - Repository Link: [GitHub Repository](https://github.com/natnew/Awesome-Prompt-Engineering)
+
+2. [Project 2: 100 Python Projects](https://github.com/natnew/100-Python-Projects/tree/main)
+   - Description: 100 Python Projects is a collection of diverse Python coding exercises and projects for learning and mastering Python programming.
+   - Repository Link: [GitHub Repository](https://github.com/natnew/100-Python-Projects/tree/main)
+
+3. [Project 3: 100-Days-of-Data-Science](https://github.com/natnew/100-Days-of-Data-Science)
+   - Description: 100-Days-of-Data-Science is a challenge for data science enthusiasts to enhance skills through daily projects, learning, and community engagement.
+   - Repository Link: [GitHub Repository](https://github.com/natnew/100-Days-of-Data-Science)
+
+4. [Project 5: Awesome Data Science](https://github.com/natnew/Awesome-Data-Science)
+   - Description: Awesome Data Science is a curated collection of resources, tools, and projects for data scientists, offering valuable insights and guidance.
+   - Repository Link: [GitHub Repository](https://github.com/natnew/Awesome-Data-Science)
+
+5. [Project 4: Chat with Your Data](https://github.com/natnew/Chat-with-Your-Data)
+   - Description: Chat with Your Data is a project dedicated to creating conversational AI interfaces for data analysis, enabling natural language interactions with datasets.
+   - Repository Link: [GitHub Repository](https://github.com/natnew/Chat-with-Your-Data)
+  
+
+Feel free to explore these projects to see my work in data science and AI. You can also contribute or provide feedback on any of these projects.
+
+
 ## Contributions
 
 We welcome contributions from the community. If you have AI projects, tutorials, or resources that you'd like to add to the repository, please follow our [contribution guidelines](./CONTRIBUTING.md).
